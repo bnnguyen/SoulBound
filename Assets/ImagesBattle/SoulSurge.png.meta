@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: adcbb799586702e4197f24258c194764
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SoulSurge_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5
+        width: 94
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.45732927, y: 0.004865565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed015e126bd53c49b4ecb9151355155
+      internalID: 2096297772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoulSurge_6
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 569
+        width: 80
+        height: 773
+      alignment: 9
+      pivot: {x: 0.42980498, y: -0.72239596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83d94e8d77fb3046ae95ce8ab743cbf
+      internalID: 1527496774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoulSurge_7
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 794
+        width: 71
+        height: 541
+      alignment: 9
+      pivot: {x: 0.44350037, y: -1.446765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8293e2489e55f41b5671ddc6006c23
+      internalID: -617178137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoulSurge_8
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1037
+        width: 54
+        height: 295
+      alignment: 9
+      pivot: {x: 0.41086155, y: -3.4780333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90f7f2dfdf72c41a7d70a13584e7da
+      internalID: -1140689088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoulSurge_9
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 1237
+        width: 30
+        height: 94
+      alignment: 9
+      pivot: {x: 0.33954266, y: -13.042386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6fac48bf1087a4293f55f2e72283b6
+      internalID: -492546989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoulSurge_10
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1310
+        width: 7
+        height: 21
+      alignment: 9
+      pivot: {x: 0.27061245, y: -61.83716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9606a9fd2c95e0f4eab512f647b313ef
+      internalID: 919828405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoulSurge_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 5
+        width: 79
+        height: 514
+      alignment: 9
+      pivot: {x: 0.47873697, y: 0.004886398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2948b1a20313fd42811babca49a648b
+      internalID: 2088850467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoulSurge_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 88
+        height: 836
+      alignment: 9
+      pivot: {x: 0.4726528, y: 0.0029849235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e78f3175d382e1408d30f728e47ac92
+      internalID: -1870806148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoulSurge_4
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 158
+        width: 88
+        height: 1050
+      alignment: 9
+      pivot: {x: 0.4453042, y: -0.14094192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e194be41aea04f9c56bb2726a8875
+      internalID: 713046968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoulSurge_5
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 349
+        width: 88
+        height: 961
+      alignment: 9
+      pivot: {x: 0.45441923, y: -0.35221365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d742bcd46870b14cb213c0b083ca427
+      internalID: 1658106220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoulSurge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 78
+        height: 333
+      alignment: 9
+      pivot: {x: 0.51035947, y: 0.005631043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f3ed6107e7b9b4ab3185fd89676c58
+      internalID: 1209796717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SoulSurge_3: 2096297772
+      SoulSurge_17: 2096297772
+      SoulSurge_0: 1209796717
+      SoulSurge_1: 2088850467
+      SoulSurge_2: -1870806148
+      SoulSurge_4: 713046968
+      SoulSurge_13: 2088850467
+      SoulSurge_6: 1527496774
+      SoulSurge_7: -617178137
+      SoulSurge_11: 919828405
+      SoulSurge_14: -1604117755
+      SoulSurge_5: 1658106220
+      SoulSurge_10: 919828405
+      SoulSurge_15: -1804697487
+      SoulSurge_16: -8158938
+      SoulSurge_9: -492546989
+      SoulSurge_12: 1209796717
+      SoulSurge_8: -1140689088
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 0aee1941f15f3fe4fa0a5483b5a366b4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrandTeleportation2_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1511
+        width: 301
+        height: 731
+      alignment: 9
+      pivot: {x: 0.5536997, y: 0.0037172164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31fabd1a20c1b94fae2c98b2a5e6deb
+      internalID: 1520881018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandTeleportation2_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1589
+        width: 951
+        height: 1129
+      alignment: 9
+      pivot: {x: 0.49033526, y: -0.06401555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0717aff4a05061945be3d78a02934bc6
+      internalID: -888884037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandTeleportation2_2
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1665
+        width: 799
+        height: 1013
+      alignment: 9
+      pivot: {x: 0.3881425, y: -0.14642425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f6aa60b84abac4796c3b580b0be5fa
+      internalID: 2083627720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandTeleportation2_3
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 1744
+        width: 729
+        height: 974
+      alignment: 9
+      pivot: {x: 0.45244616, y: -0.23344342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb78ea8fbb903b47b8f7461d4d63d08
+      internalID: 1599309030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandTeleportation2_4
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 1665
+        width: 562
+        height: 868
+      alignment: 9
+      pivot: {x: 0.54637367, y: -0.17068411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb36ad75b755e34e8bb2428ca6da533
+      internalID: 1135921842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandTeleportation2_5
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 1589
+        width: 426
+        height: 866
+      alignment: 9
+      pivot: {x: 0.4307999, y: -0.0834328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1a05e11b602b84b8a4e7e06fb6daee
+      internalID: -1996078513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandTeleportation2_6
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 1548
+        width: 311
+        height: 794
+      alignment: 9
+      pivot: {x: 0.5708353, y: -0.039501585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1c3ec87e667a34ebc9a19f2871f464
+      internalID: 241170598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandTeleportation2_7
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 1511
+        width: 301
+        height: 731
+      alignment: 9
+      pivot: {x: 0.56479216, y: 0.009828246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d794797b99f53a48a416ba9b78dc78f
+      internalID: 1345593454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GrandTeleportation2_11: 1488357644
+      GrandTeleportation2_0: 1520881018
+      GrandTeleportation2_5: -1996078513
+      GrandTeleportation2_10: -615480615
+      GrandTeleportation2_8: 23681016
+      GrandTeleportation2_4: 1135921842
+      GrandTeleportation2_7: 1345593454
+      GrandTeleportation2_3: 1599309030
+      GrandTeleportation2_13: 1286325778
+      GrandTeleportation2_6: 241170598
+      GrandTeleportation2_12: -1837464772
+      GrandTeleportation2_2: 2083627720
+      GrandTeleportation2_14: 1295145250
+      GrandTeleportation2_15: -997070342
+      GrandTeleportation2_1: -888884037
+      GrandTeleportation2_9: -1744391148
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

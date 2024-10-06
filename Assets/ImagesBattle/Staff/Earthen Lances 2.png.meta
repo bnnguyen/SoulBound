@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 3533e38be4ca4174b9be1c0d578c08a2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earthen Lances 2_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1498
+        width: 331
+        height: 724
+      alignment: 9
+      pivot: {x: 0.5439858, y: -0.0043675546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48f494d4843fd84083dd35a63665d7d
+      internalID: -1858960256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earthen Lances 2_1
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1531
+        width: 939
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.48746395, y: -0.024459587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98b9742d11f34a4db5250a2a85817ec
+      internalID: 210320940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earthen Lances 2_2
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1640
+        width: 798
+        height: 1005
+      alignment: 9
+      pivot: {x: 0.3748692, y: -0.13662304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d55d4a56954d040977213c634dfb7e
+      internalID: -1440444155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earthen Lances 2_3
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1710
+        width: 726
+        height: 974
+      alignment: 9
+      pivot: {x: 0.42712873, y: -0.21306509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c41325691ee36e4aa444c20293a3a28
+      internalID: -1745193351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earthen Lances 2_4
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1630
+        width: 564
+        height: 860
+      alignment: 9
+      pivot: {x: 0.53600425, y: -0.14874552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410084efdbf92c749ac187f75cb56c61
+      internalID: -1197386727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earthen Lances 2_5
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 1551
+        width: 426
+        height: 866
+      alignment: 9
+      pivot: {x: 0.43746275, y: -0.055852808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4076f66a5cf304fbe82b5ba6f99c29
+      internalID: 1213638452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earthen Lances 2_6
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 1515
+        width: 332
+        height: 788
+      alignment: 9
+      pivot: {x: 0.54165685, y: -0.016312653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de59bafc7fa1484db29208dc1945776
+      internalID: 2042073661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earthen Lances 2_7
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 1493
+        width: 332
+        height: 724
+      alignment: 9
+      pivot: {x: 0.5470912, y: 0.003354236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76459c482d760c4aac6688cd5a1b737
+      internalID: 1617231468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Earthen Lances 2_12: -597374183
+      Earthen Lances 2_4: -1197386727
+      Earthen Lances 2_8: 685273598
+      Earthen Lances 2_10: 783531896
+      Earthen Lances 2_6: 2042073661
+      Earthen Lances 2_9: -1853570016
+      Earthen Lances 2_13: -405550483
+      Earthen Lances 2_2: -1440444155
+      Earthen Lances 2_3: -1745193351
+      Earthen Lances 2_1: 210320940
+      Earthen Lances 2_14: -332613956
+      Earthen Lances 2_0: -1858960256
+      Earthen Lances 2_7: 1617231468
+      Earthen Lances 2_11: -602274724
+      Earthen Lances 2_5: 1213638452
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

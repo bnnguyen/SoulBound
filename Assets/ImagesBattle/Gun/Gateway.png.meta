@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 1b3c85752fcddd846a73082f76810a0a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gateway_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1504
+        width: 94
+        height: 1171
+      alignment: 9
+      pivot: {x: 0.63999236, y: 0.27374086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6a0d2b8b8bbfb4fab6a12ce09d6f8c
+      internalID: 157729064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_1
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1499
+        width: 232
+        height: 1172
+      alignment: 9
+      pivot: {x: 0.5768812, y: 0.2730869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be0dec44c5c10d448ab6644f9978107
+      internalID: -294021390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_2
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1502
+        width: 175
+        height: 1343
+      alignment: 9
+      pivot: {x: 0.7504834, y: 0.23716635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98169ce95f524e343bb166ceab5d8323
+      internalID: -1005303379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_3
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1502
+        width: 166
+        height: 1343
+      alignment: 9
+      pivot: {x: 0.7918584, y: 0.23888415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751501f90eea7bd48ad67c9ee5e390ea
+      internalID: -2010164315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_5
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1502
+        width: 165
+        height: 1343
+      alignment: 9
+      pivot: {x: 0.80061996, y: 0.23716635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c6a629eb244f48be5ea6a7e5285d3
+      internalID: 239234665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1436
+        width: 198
+        height: 1239
+      alignment: 9
+      pivot: {x: 0.50000155, y: 0.3120125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ba35df780493499effa49fba87b9b
+      internalID: 318667069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_7
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1478
+        width: 186
+        height: 1195
+      alignment: 9
+      pivot: {x: 0.5990479, y: 0.28721786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd6e4d31ffae9c4d83c5ff0ec5a42dc
+      internalID: -1336643870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_8
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1502
+        width: 182
+        height: 1173
+      alignment: 9
+      pivot: {x: 0.6229174, y: 0.2723883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd53c1796a8e0a4b956f70a8e929f09
+      internalID: -983638179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_9
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1502
+        width: 163
+        height: 1173
+      alignment: 9
+      pivot: {x: 0.61323035, y: 0.2738141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6802298713ab979439cb481d872582f8
+      internalID: 91646232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 416
+        height: 716
+      alignment: 9
+      pivot: {x: 0.5518089, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f302501fa15414a84ff3701d4f1fa5
+      internalID: 1672576677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 688
+        height: 996
+      alignment: 9
+      pivot: {x: 0.5857128, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a464b1a6e6213ce4a84f3e2bb56c563b
+      internalID: -1385589275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_12
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 448
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.54070693, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb96dff93c1344fa15797ed73e822e
+      internalID: -1683722810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_13
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 0
+        width: 263
+        height: 877
+      alignment: 9
+      pivot: {x: 0.51688284, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9672ac9bb41cd454c9263db296757997
+      internalID: -1528266053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_14
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 0
+        width: 236
+        height: 644
+      alignment: 9
+      pivot: {x: 0.5351252, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7c3e80250debd4bb446c87290c1c4b
+      internalID: 225877649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_15
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 6
+        width: 234
+        height: 407
+      alignment: 9
+      pivot: {x: 0.55667925, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04113b411712fb943b17dca8847ef599
+      internalID: 954747582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateway_16
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 0
+        width: 233
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5426921, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ff5756508a05498dddbfdc75df23e
+      internalID: -486792888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gateway_1: -294021390
+      Gateway_3: -2010164315
+      Gateway_8: -983638179
+      Gateway_14: 225877649
+      Gateway_13: -1528266053
+      Gateway_11: -1385589275
+      Gateway_5: 239234665
+      Gateway_15: 954747582
+      Gateway_9: 91646232
+      Gateway_2: -1005303379
+      Gateway_0: 157729064
+      Gateway_6: 318667069
+      Gateway_16: -486792888
+      Gateway_7: -1336643870
+      Gateway_10: 1672576677
+      Gateway_12: -1683722810
+      Gateway_4: -329947496
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

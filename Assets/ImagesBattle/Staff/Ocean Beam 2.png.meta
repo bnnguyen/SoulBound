@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: e47be42ec9656c745981af15a6fa3db2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ocean Beam 2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 967
+        width: 298
+        height: 723
+      alignment: 9
+      pivot: {x: 0.54165375, y: 0.0034451517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c85477088d30245901ea4be941cf1b
+      internalID: 1563951358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean Beam 2_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1048
+        width: 958
+        height: 1104
+      alignment: 9
+      pivot: {x: 0.4807185, y: -0.06533681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043eb794ffa67104293133a0ea1a144d
+      internalID: -2102404861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean Beam 2_2
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1118
+        width: 797
+        height: 1011
+      alignment: 9
+      pivot: {x: 0.38204885, y: -0.14102273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445ac4690dda2ab419c70eea2b5f0ec6
+      internalID: 1205192499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean Beam 2_3
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1176
+        width: 728
+        height: 976
+      alignment: 9
+      pivot: {x: 0.42392135, y: -0.20480965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e252e1c860947b348bf6f4c15bb80341
+      internalID: 1211947325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean Beam 2_4
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 1118
+        width: 561
+        height: 860
+      alignment: 9
+      pivot: {x: 0.51482815, y: -0.16479662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ef6f52439ebf34f9d5b1f319c3d52d
+      internalID: -342981754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean Beam 2_5
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 1051
+        width: 423
+        height: 862
+      alignment: 9
+      pivot: {x: 0.42054635, y: -0.08674044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab6dfe2aca5b646b175ed42033dea3
+      internalID: 765888820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean Beam 2_6
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 1015
+        width: 300
+        height: 785
+      alignment: 9
+      pivot: {x: 0.5613167, y: -0.049481474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1f9ac662f6b534d90fff4151f69724
+      internalID: -51192552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean Beam 2_7
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 967
+        width: 298
+        height: 725
+      alignment: 9
+      pivot: {x: 0.5411139, y: 0.0035732086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a4743fba347cf4685dd0e3396e305b
+      internalID: 1477731849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ocean Beam 2_9: 2068717791
+      Ocean Beam 2_0: 1563951358
+      Ocean Beam 2_18: 935246219
+      Ocean Beam 2_2: 1205192499
+      Ocean Beam 2_19: 2048524225
+      Ocean Beam 2_12: -1142010371
+      Ocean Beam 2_17: -409926227
+      Ocean Beam 2_16: -715260779
+      Ocean Beam 2_3: 1211947325
+      Ocean Beam 2_11: 1509236134
+      Ocean Beam 2_10: -794160464
+      Ocean Beam 2_8: 703425699
+      Ocean Beam 2_14: 618143706
+      Ocean Beam 2_13: -1466056765
+      Ocean Beam 2_5: 765888820
+      Ocean Beam 2_6: -51192552
+      Ocean Beam 2_4: -342981754
+      Ocean Beam 2_7: 1477731849
+      Ocean Beam 2_1: -2102404861
+      Ocean Beam 2_15: 581189728
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

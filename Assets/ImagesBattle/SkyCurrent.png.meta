@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: ca14e245a2d49bf45a320c733d6244de
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkyCurrent_0
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2408
+        width: 196
+        height: 693
+      alignment: 9
+      pivot: {x: 0.5261067, y: 0.03482474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01731d7e353d99348830bf51deb893a8
+      internalID: -1310397298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyCurrent_1
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2426
+        width: 526
+        height: 528
+      alignment: 9
+      pivot: {x: 0.16924794, y: 0.067128964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f15ad9089ae5a4f8c9ed508db8f8bb
+      internalID: 1734353633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyCurrent_2
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 2257
+        width: 411
+        height: 844
+      alignment: 9
+      pivot: {x: 0.079547964, y: 0.49431217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7819beb39e17e4343b26250d1284c220
+      internalID: 1828001732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyCurrent_3
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 1216
+        width: 772
+        height: 1735
+      alignment: 9
+      pivot: {x: 0.48245728, y: 0.7888317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78537bae842dc6c419a288ddb9add1ae
+      internalID: -795122379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyCurrent_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1178
+        width: 677
+        height: 837
+      alignment: 9
+      pivot: {x: 0.60602695, y: 0.53773415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5516dbaa45ee31a4cab50d9e885c904b
+      internalID: -1290897663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyCurrent_5
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1152
+        width: 707
+        height: 905
+      alignment: 9
+      pivot: {x: 0.5650785, y: 0.44661736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f590f5f2b9794a46af2eb758e803482
+      internalID: 1071507777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyCurrent_6
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1187
+        width: 861
+        height: 895
+      alignment: 9
+      pivot: {x: 0.4412174, y: 0.38947153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f1dadab7852dc408217b2f237b578a
+      internalID: 400250432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyCurrent_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 860
+        height: 893
+      alignment: 9
+      pivot: {x: 0.43525097, y: 0.38543358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d5a69aa0abce40bd7f59438c0bd19
+      internalID: -1097127119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyCurrent_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 912
+        height: 851
+      alignment: 9
+      pivot: {x: 0.29609412, y: 0.43076533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a1bfdf219cc6347947a51908ed3608
+      internalID: 1578388660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyCurrent_9
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 316
+        width: 555
+        height: 355
+      alignment: 9
+      pivot: {x: 0.05789212, y: 0.23209977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddee1d364804f9b4c840eb65254f3c4c
+      internalID: 106222275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyCurrent_10
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 313
+        width: 545
+        height: 183
+      alignment: 9
+      pivot: {x: 0.04628951, y: 0.48960617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bccb14d338a63b40a03a48590141ad2
+      internalID: -488812435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SkyCurrent_10: -488812435
+      SkyCurrent_2: 1828001732
+      SkyCurrent_4: -1290897663
+      SkyCurrent_1: 1734353633
+      SkyCurrent_9: 106222275
+      SkyCurrent_0: -1310397298
+      SkyCurrent_6: 400250432
+      SkyCurrent_5: 1071507777
+      SkyCurrent_7: -1097127119
+      SkyCurrent_8: 1578388660
+      SkyCurrent_3: -795122379
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

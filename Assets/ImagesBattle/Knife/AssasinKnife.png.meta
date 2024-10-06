@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 19e67a0ae827fe64394e3af961fe0430
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AssasinKnife_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2395
+        width: 1307
+        height: 269
+      alignment: 9
+      pivot: {x: 0.0070309592, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7cf4ad35949294d8c687be105782a9
+      internalID: -126145016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssasinKnife_2
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 2397
+        width: 2100
+        height: 267
+      alignment: 9
+      pivot: {x: 0.003703032, y: 0.49003503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be059a283aba0d942a4a4993bd2faf53
+      internalID: -1410809283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssasinKnife_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1793
+        width: 1357
+        height: 270
+      alignment: 9
+      pivot: {x: 0.0033078513, y: 0.4987689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6269c9f2e46d5c45a18b5e54b780741
+      internalID: -1081342808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssasinKnife_5
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1797
+        width: 2097
+        height: 270
+      alignment: 9
+      pivot: {x: 0.0017810507, y: 0.48604602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875fe0498c3f22c428d1f8e05b140efc
+      internalID: -2130618529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssasinKnife_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1199
+        width: 1656
+        height: 266
+      alignment: 9
+      pivot: {x: 0.0039461562, y: 0.47508252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeccf286adbc694e9ee42690d338af2
+      internalID: -578782833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssasinKnife_8
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 1199
+        width: 2099
+        height: 266
+      alignment: 9
+      pivot: {x: 0.002891188, y: 0.48419097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b20495395d25b45983e3b161080098
+      internalID: 1156021643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssasinKnife_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 595
+        width: 2096
+        height: 268
+      alignment: 9
+      pivot: {x: 0.0012463732, y: 0.4860621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3069213d6585af4459ab3c6801dc6731
+      internalID: -425756136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssasinKnife_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 2101
+        height: 264
+      alignment: 9
+      pivot: {x: 0.0035261528, y: 0.48419073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10488d21b8117d478d4111c8accf705
+      internalID: 529035509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssasinKnife_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2102
+        height: 267
+      alignment: 9
+      pivot: {x: 0.0038118344, y: 0.48017192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774dbdd0c945b3849b63839b9bdf927e
+      internalID: 599779667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AssasinKnife_7: -686553583
+      AssasinKnife_11: 529035509
+      AssasinKnife_10: 1851145801
+      AssasinKnife_0: -126145016
+      AssasinKnife_3: -1081342808
+      AssasinKnife_1: -497901963
+      AssasinKnife_6: -578782833
+      AssasinKnife_4: -786681585
+      AssasinKnife_9: -425756136
+      AssasinKnife_13: 599779667
+      AssasinKnife_14: 410804941
+      AssasinKnife_8: 1156021643
+      AssasinKnife_12: -787991780
+      AssasinKnife_5: -2130618529
+      AssasinKnife_2: -1410809283
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
